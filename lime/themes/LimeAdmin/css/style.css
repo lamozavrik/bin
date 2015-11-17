@@ -1,0 +1,29 @@
+body{
+    background: #f7f7f9;
+}
+
+.panel-default {
+    border-color: #333;
+}
+
+.panel-default>.panel-heading{
+    color: #FDFDFD;
+    background-color: #333;
+    border-color: #333;
+}
+
+.box-header-buttons{
+    top: -5px;
+}
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+    background-color: #ddd;
+    border-color: #ddd;
+    color: #333;
+    font-size: 1.1em;
+    padding: 3px 9px;
+}
+
+.pager>.active>a, .pager>.active>span, .pager>.active>a:hover, .pager>.active>span:hover, .pager>.active>a:focus, .pager>.active>span:focus{
+    
+}
